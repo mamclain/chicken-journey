@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A Blog Dedicated to MidJourney Prompt Creation
 
 domain: chickenjourney.com
-baseurl: "/chicken-journey/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chickenjourney.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mamclain
